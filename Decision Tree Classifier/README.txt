@@ -1,0 +1,1 @@
+passing the indices of records present at each node as parameter1 and the attributes left to be split upon
