@@ -1,0 +1,4 @@
+agglomerative nmi=0.024552195075452997
+reduced_agglomerative nmi=0.022863982267351157
+kmeans nmi=0.5206821950383642
+reduced_kmeans nmi=0.694523571997961
